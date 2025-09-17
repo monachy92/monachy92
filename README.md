@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋
 
 ## 🔐 Cybersecurity Professional | 🐍 Python Developer | ☁️ AWS Enthusiast
 
@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, cloud security
 ## 🛠️ Technologies & Tools
 
 ### Security & Compliance
-- **Frameworks**: NIST Cybersecurity Framework, ISO 27001, OWASP
+- **Frameworks**: NIST Cybersecurity Framework
 - **Tools**: Nessus, Wireshark, Metasploit, Burp Suite, Nmap, Nessus
 - **Ethical Hacking**: Penetration Testing, Vulnerability Assessment, Social Engineering
 - **Areas**: Incident Response, Risk Management, Security Auditing
@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, cloud security
 
 ### Programming & Development
 - **Languages**: Python 🐍, Bash, PowerShell, SQL
-- **Libraries**: Requests, Beautiful Soup, Pandas, Boto3, Scapy
+- **Libraries**: **place libraries here !!**
 - **Focus**: Security Automation, Network Analysis, Penetration Testing Scripts
 
 ### Cloud & Infrastructure
@@ -101,11 +101,11 @@ CloudFormation templates and Terraform modules for implementing secure AWS archi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monarchy92&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarchy92&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ CloudFormation templates and Terraform modules for implementing secure AWS archi
 
 ---
 
-## 📝 Latest Blog Posts & Articles
+## 📝 Latest Blog Posts & Articles- **Under construction**
 
 <!-- BLOG-POST-LIST:START -->
 - [Advanced Penetration Testing with Python and Kali Linux](#)
@@ -132,11 +132,8 @@ CloudFormation templates and Terraform modules for implementing secure AWS archi
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 **under construction**
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 [Email](mailto:your.email@example.com)
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 
 ---
@@ -151,10 +148,6 @@ CloudFormation templates and Terraform modules for implementing secure AWS archi
 - 🎯 Always looking to bridge the gap between security theory and practical implementation
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 <div align="center">
   
