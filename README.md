@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, cloud security
         <br><strong>Security+</strong>
       </td>
       <td align="center">
-        <img src="monarchy/CompTIA_Linux_2B.png" alt="CompTIA Linux+" width="200"/>
+        <img src="monarchy92/CompTIA_Linux_2B.png" alt="CompTIA Linux+" width="200"/>
         <br><strong>Linux+</strong>
       </td>
       <td align="center">
