@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-## 🔐 Cybersecurity Professional | 🐍 Python Developer | ☁️ AWS Enthusiast
+## ☁️ Cloud Computing Student (WGU) | 🏗️ AWS Solutions Architect | 🔐 DevSecOps
 
-Welcome to my GitHub profile! I'm passionate about cybersecurity, cloud security, and building secure applications with Python.
+Welcome to my GitHub profile! I am a **Cloud Computing student at Western Governors University** with a strong foundation in infrastructure, automation, and security. I specialize in building resilient cloud architectures on AWS, automating workflows with Python, and implementing "Security by Design."
 
 ---
 
@@ -12,89 +12,88 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, cloud security
   <table>
     <tr>
       <td align="center">
-        <img src="path/to/your/security-plus-cert.png" alt="CompTIA Security+" width="200"/>
-        <br><strong>Security+</strong>
+        <img src="path/to/aws-saa-cert.png" alt="AWS Solutions Architect Associate" width="200"/>
+        <br><strong>AWS Solutions Architect</strong>
       </td>
+      <td align="center">
+        <img src="path/to/aws-ccp-cert.png" alt="AWS Cloud Practitioner" width="200"/>
+        <br><strong>AWS Cloud Practitioner</strong>
+      </td>
+      <td align="center">
+        <img src="path/to/cloud-plus-cert.png" alt="CompTIA Cloud+" width="200"/>
+        <br><strong>CompTIA Cloud+</strong>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="CompTIA_Linux_2B.png" alt="CompTIA Linux+" width="200"/>
-        <br><strong>Linux+</strong>
+        <br><strong>CompTIA Linux+</strong>
       </td>
       <td align="center">
-        <img src="path/to/your/network-plus-cert.png" alt="CompTIA Network+" width="200"/>
-        <br><strong>Network+</strong>
+        <img src="path/to/security-plus-cert.png" alt="CompTIA Security+" width="200"/>
+        <br><strong>CompTIA Security+</strong>
+      </td>
+      <td align="center">
+        <img src="path/to/network-plus-cert.png" alt="CompTIA Network+" width="200"/>
+        <br><strong>CompTIA Network+</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="path/to/your/aplus-cert.png" alt="CompTIA A+" width="200"/>
-        <br><strong>A+</strong>
+        <img src="path/to/ceh-cert.png" alt="Certified Ethical Hacker" width="200"/>
+        <br><strong>Cisco Certified Ethical Hacker</strong>
+      </td>
+       <td align="center">
+        <img src="path/to/aplus-cert.png" alt="CompTIA A+" width="200"/>
+        <br><strong>CompTIA A+</strong>
       </td>
       <td align="center">
-        <img src="path/to/your/itf-cert.png" alt="CompTIA ITF+" width="200"/>
-        <br><strong>IT Fundamentals+</strong>
-      </td>
-      <td align="center">
-        <img src="path/to/your/aws-ccp-cert.png" alt="AWS Cloud Practitioner" width="200"/>
-        <br><strong>AWS CCP</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="path/to/your/ceh-cert.png" alt="Certified Ethical Hacker" width="200"/>
-        <br><strong>Certified Ethical Hacker</strong>
-      </td>
-      <td align="center">
-        <img src="path/to/your/cisco-cert.png" alt="Cisco Technical" width="200"/>
-        <br><strong>Cisco Technical</strong>
-      </td>
-      <td></td>
+        </td>
     </tr>
   </table>
 </div>
 
-*Comprehensive IT and Cybersecurity certifications spanning infrastructure, networking, cloud, and ethical hacking*
+*Comprehensive certifications bridging Cloud Architecture, Linux Administration, and Cybersecurity.*
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Security & Compliance
-- **Frameworks**: NIST Cybersecurity Framework
-- **Tools**: Nessus, Wireshark, Metasploit, Burp Suite, Nmap, Nessus
-- **Ethical Hacking**: Penetration Testing, Vulnerability Assessment, Social Engineering
-- **Areas**: Incident Response, Risk Management, Security Auditing
+### ☁️ Cloud & Infrastructure (Focus)
+- **AWS Services**: EC2, S3, VPC, IAM, Lambda, Route53, CloudWatch, GuardDuty
+- **IaC & Automation**: Terraform, Ansible, CloudFormation
+- **Virtualization**: Docker, Kubernetes, KVM/Libvirt, LXD
+- **Private Cloud**: Raspberry Pi Clusters, Home Lab Environments
 
-### Networking & Infrastructure
-- **Protocols**: TCP/IP, DNS, DHCP, VPN, VLAN, BGP, OSPF
-- **Hardware**: Cisco Routers/Switches, Firewalls, Load Balancers
-- **Linux Systems**: Ubuntu, CentOS, Red Hat, System Administration
-- **Windows**: Active Directory, Group Policy, PowerShell
+### 🐍 Programming & Development
+- **Languages**: Python, Bash, PowerShell, SQL
+- **Python Libraries**: `boto3` (AWS SDK), `paramiko`, `requests`, `flask`, `scapy`
+- **Focus**: Cloud Automation, Infrastructure as Code (IaC), Security Scripting
 
-### Programming & Development
-- **Languages**: Python 🐍, Bash, PowerShell, SQL
-- **Libraries**: **place libraries here !!**
-- **Focus**: Security Automation, Network Analysis, Penetration Testing Scripts
-
-### Cloud & Infrastructure
-- **AWS Services**: EC2, S3, VPC, IAM, CloudTrail, GuardDuty, Security Hub
-- **Cloud Security**: CSPM, Identity Management, Compliance Monitoring
-- **Infrastructure**: Docker, Kubernetes, Terraform, CloudFormation
+### 🔐 Security & Networking
+- **Tools**: Wireshark, Nmap, Nessus, Metasploit, Burp Suite, pfSense
+- **Compliance**: NIST Framework, AWS Shared Responsibility Model
+- **Networking**: TCP/IP, DNS, VPN, VLAN, OSPF, Subnetting
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Cloud & DevOps Projects
 
-### 🔍 [Penetration Testing Toolkit](link-to-repo)
-Comprehensive ethical hacking tools and scripts for penetration testing, vulnerability assessment, and security auditing.
+### ☁️ [AWS Secure Infrastructure](link-to-repo)
+**Tech:** *Terraform, AWS, CloudFormation*
+CloudFormation templates and Terraform modules for deploying highly available, secure AWS architectures (VPC, Multi-AZ EC2, IAM policies) following the Well-Architected Framework.
 
-### 🖥️ [Network Analysis Scripts](link-to-repo)
-Python and Bash scripts for network monitoring, traffic analysis, and troubleshooting using Wireshark and custom tools.
+### 🏠 [Private Micro-Cloud Cluster](link-to-repo)
+**Tech:** *Raspberry Pi, KVM, Docker, Linux*
+Building a bare-metal private cloud using a cluster of Raspberry Pis. Focuses on container orchestration, virtualization with KVM/Libvirt, and network segmentation.
 
-### 🐧 [Linux System Hardening](link-to-repo)
-Automated scripts and configurations for securing Linux systems following industry best practices and compliance standards.
+### 🐧 [Linux Automation & Hardening](link-to-repo)
+**Tech:** *Bash, Python, Ansible*
+Automated scripts for provisioning Linux servers and applying CIS Benchmark hardening standards. Includes custom tools for system auditing.
 
-### ☁️ [AWS Security Infrastructure](link-to-repo)
-CloudFormation templates and Terraform modules for implementing secure AWS architectures and compliance frameworks.
+### 🔍 [Cloud Penetration Toolkit](link-to-repo)
+**Tech:** *Python, AWS CLI*
+Custom Python scripts utilizing `boto3` to audit AWS environments for misconfigurations (e.g., open S3 buckets, permissive IAM roles).
 
 ---
 
@@ -112,49 +111,34 @@ CloudFormation templates and Terraform modules for implementing secure AWS archi
 
 ## 🌟 What I'm Working On
 
-- 🔐 Developing advanced penetration testing tools and methodologies
-- 🐧 Creating Linux system administration and hardening automation scripts  
-- 🌐 Building network monitoring and analysis solutions
-- ☁️ Implementing AWS security architectures and compliance frameworks
-- 📚 Continuously expanding knowledge in emerging cybersecurity threats and technologies
-- 🤝 Contributing to open-source security and networking projects
+- 🎓 Completing my B.S. in **Cloud Computing at WGU**
+- 🏗️ Building a **Private Cloud** homelab using Raspberry Pi and KVM
+- ☁️ Studying for advanced AWS certifications
+- 🐍 Writing Python automation for cloud resource management
+- 🤝 Mentoring new hires as a **Learning Ambassador**
 
 ---
 
-## 📝 Latest Blog Posts & Articles- **Under construction**
+## 📝 Latest Blog Posts & Articles
+*Documenting my journey from IT Support to Cloud Engineering*
 
-<!-- BLOG-POST-LIST:START -->
-- [Advanced Penetration Testing with Python and Kali Linux](#)
-- [AWS Security: From Cloud Practitioner to Security Architect](#)
-- [Linux Hardening: Essential Commands and Configurations](#)
-- [Network Analysis: Wireshark Tips and Packet Capture Best Practices](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 **under construction**
-
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-
+- [Building a Private Cloud with Raspberry Pi](#)
+- [Terraform vs. CloudFormation: A Student's Perspective](#)
+- [Automating AWS Security Audits with Python](#)
 ---
 
 ## 💡 Fun Facts
 
-- 🔒 Believe in ethical hacking to make systems more secure
-- 🐧 Linux enthusiast who loves the command line and automation
-- 🌐 Network packets tell the best stories about system behavior
-- 🐍 Python is my Swiss Army knife for security and automation tasks
-- ☁️ Passionate about secure cloud architectures and compliance
-- 🎯 Always looking to bridge the gap between security theory and practical implementation
+- ☁️ I treat my home lab like a production data center
+- 🐍 Python is my glue for connecting disparate cloud services
+- 🐧 I run Linux on everything—even the toaster (if I could)
+- 🔒 My philosophy: "Automate everything, secure everything."
+- 🧩 I enjoy breaking complex architectures down into reusable code
 
 ---
 
 <div align="center">
   
-  **"Security is not a product, but a process."** - Bruce Schneier
+  **"The cloud is just someone else's computer... until you learn to build your own."**
   
 </div>
-<!---
-monachy92/monachy92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
