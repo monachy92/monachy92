@@ -15,55 +15,6 @@ I believe that security is not a "bolt-on" feature but an inherent part of the b
 
 ---
 
-## 🎓 Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/aws-saa-cert.png" alt="AWS Solutions Architect Associate" width="160"/>
-        <br><strong>AWS Solutions Architect</strong>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/aws-ccp-cert.png" alt="AWS Cloud Practitioner" width="160"/>
-        <br><strong>AWS Cloud Practitioner</strong>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/cloud-plus-cert.png" alt="CompTIA Cloud+" width="160"/>
-        <br><strong>CompTIA Cloud+</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/CompTIA_Linux_2B.png" alt="CompTIA Linux+" width="160"/>
-        <br><strong>CompTIA Linux+</strong>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/security-plus-cert.png" alt="CompTIA Security+" width="160"/>
-        <br><strong>CompTIA Security+</strong>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/network-plus-cert.png" alt="CompTIA Network+" width="160"/>
-        <br><strong>CompTIA Network+</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/ceh-cert.png" alt="Certified Ethical Hacker" width="160"/>
-        <br><strong>Cisco Ethical Hacker</strong>
-      </td>
-       <td align="center">
-        <img src="https://raw.githubusercontent.com/monarchy92/monarchy92/main/path/to/aplus-cert.png" alt="CompTIA A+" width="160"/>
-        <br><strong>CompTIA A+</strong>
-      </td>
-      <td align="center">
-        </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### 🏗️ Infrastructure & Policy-as-Code
