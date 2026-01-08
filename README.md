@@ -36,7 +36,7 @@ I believe that security is not a "bolt-on" feature but an inherent part of the b
 
 ## 🚀 Featured Security & AI Projects
 
-### 📜 [Secure-by-Default AWS Baseline (Terraform)](https://github.com/monarchy92/secure-aws-terraform)
+### 📜 [Secure-by-Default AWS Baseline (Terraform)](https://github.com/monachy92/secure-aws-terraform)
 **Tech:** *Terraform, Checkov, GitHub Actions*
 A library of production-ready Terraform modules that enforce the **AWS Well-Architected Security Pillar**. Features automated GitHub Action gates that block any code failing **Checkov** or **OPA** security policies.
 
