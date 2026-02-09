@@ -32,13 +32,11 @@ I am a Data Center Operations Technician at Amazon transitioning into **Cloud Se
 * **Runtime Monitoring:** Researching **Falco** and eBPF-based tools to detect and alert on anomalous behavior in real-time.
 * [**📂 View Project**](link-to-project) | [**📝 Documentation**](link-to-docs)
 
-
-
-### 2️⃣ 🕵️‍♂️ Purple Team Security Lab
-**Complete Attack-to-Detection-to-Response Pipeline**
-* **Offensive:** Simulated OWASP Top 10 attacks (SQLi, XSS) and JWT manipulation using **Burp Suite** and **Metasploit**.
-* **Defensive:** Deployed **Wazuh SIEM/EDR** for real-time monitoring and custom detection rule engineering.
-* **Response:** Configured Active Response scripts to automatically isolate compromised hosts based on high-severity alerts.
+## 1️⃣ 🕵️‍♂️ Purple Team & AppSec Pipeline
+**DVWA & Juice Shop Exploitation vs. Wazuh Detection**
+* **Offensive Components:** Simulated **OWASP Top 10** attacks (SQLi, XSS) and JWT manipulation on **DVWA** and **Juice Shop** using **Burp Suite Professional**.
+* **Defensive Components:** Deployed **Wazuh SIEM/EDR** to monitor attack signatures and authored custom rules to detect web-based exploitation attempts.
+* **Active Response:** Engineered automated scripts to isolate compromised hosts and block malicious IPs at the firewall level upon high-severity triggers.
 * [**📂 View Project**](link-to-project) | [**📝 Documentation**](link-to-docs)
 
 ### 3️⃣ 🏗️ Secure Supply Chain & OS Hardening
@@ -54,8 +52,6 @@ I am a Data Center Operations Technician at Amazon transitioning into **Cloud Se
 * **L2 Hardening:** Implemented Port Security, DHCP Snooping, and Dynamic ARP Inspection (DAI) via Cisco CLI to prevent local network attacks.
 * **VPN Connectivity:** Configured secure Site-to-Site VPN tunnels to ensure encrypted data transit between remote sites.
 * [**📂 View Project**](link-to-project) | [**📝 Documentation**](link-to-docs)
-
-
 
 ### 5️⃣ 🤖 AI Safety & LLM Security Research
 **Hardening Generative AI Implementations**
