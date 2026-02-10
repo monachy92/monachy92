@@ -30,7 +30,7 @@ I am a Data Center Operations Technician at Amazon transitioning into **Cloud Se
 * **Cluster Hardening:** Implementing RBAC, Pod Security Standards, and API server hardening to mitigate container escape risks.
 * **Network Security:** Utilizing Network Policies and CNI configurations to enforce micro-segmentation within the cluster.
 * **Runtime Monitoring:** Researching **Falco** and eBPF-based tools to detect and alert on anomalous behavior in real-time.
-* [**📂 View Project**](link-to-project) | [**📝 Documentation**](link-to-docs)
+* [**📂 View Project**](https://github.com/monachy92/appsec-detection) | [**📝 Documentation**](link-to-docs)
 
 ## 1️⃣ 🕵️‍♂️ Purple Team & AppSec Pipeline
 **DVWA & Juice Shop Exploitation vs. Wazuh Detection**
