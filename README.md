@@ -9,7 +9,7 @@
 
 **DCO Tech @ Amazon | Cloud Security Engineering | Purple Team Approach**
 
-[LinkedIn](https://www.linkedin.com/in/jt92/) | [GitHub](https://github.com/your-username) | [TryHackMe](https://tryhackme.com/p/your-username)
+[LinkedIn](https://www.linkedin.com/in/jt92/) | [TryHackMe](https://tryhackme.com/p/monarch42)
 
 </div>
 
