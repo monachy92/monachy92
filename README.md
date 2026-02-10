@@ -44,7 +44,7 @@ I am a Data Center Operations Technician at Amazon transitioning into **Cloud Se
 * **Image Hardening:** Utilizing **HashiCorp Packer** to build **CIS-compliant** Linux images, removing unnecessary services and tightening kernel parameters.
 * **Vulnerability Management:** Integrating **Trivy** to scan container images and generated **SBOMs** (Software Bill of Materials) for known CVEs.
 * **Manual Hardening:** Developed Bash scripts to automate the application of security baselines to fresh Linux installs.
-* [**📂 View Project**](link-to-project) | [**📝 Documentation**](link-to-docs)
+* [**📂 View Project**]([https://github.com/monachy92/secure-supply-chain) | [**📝 Documentation**](link-to-docs)
 
 ### 4️⃣ 🌐 Enterprise Networking & CCNA Lab
 **Secure Network Design & Segmentation**
@@ -82,11 +82,11 @@ I am a Data Center Operations Technician at Amazon transitioning into **Cloud Se
 * 🎓 **M.S. Cybersecurity & Information Assurance** - WGU (Starting Nov 2026)
 
 **Completed Certifications:**
-* ✅ **CompTIA:** Security+, Network+, Linux+, Cloud+, A+
+* ✅ **CompTIA:** Security+, Network+, Linux+, A+
 * ✅ **Cloud:** AWS CCP, Azure Fundamentals
 
 **Active Roadmap:**
-* 🚀 **AWS Security Specialty** | **CCNA** | **Kubernetes (CKA/CKS)**
+* 🚀 **AWS Security Specialty** | **CCNA** | **Kubernetes (CKA/CKS)** | **AWS SSA** 
 
 ---
 
