@@ -37,7 +37,7 @@ I am a Data Center Operations Technician at Amazon transitioning into **Cloud Se
 * **Offensive Components:** Simulated **OWASP Top 10** attacks (SQLi, XSS) and JWT manipulation on **DVWA** and **Juice Shop** using **Burp Suite Professional**.
 * **Defensive Components:** Deployed **Wazuh SIEM/EDR** to monitor attack signatures and authored custom rules to detect web-based exploitation attempts.
 * **Active Response:** Engineered automated scripts to isolate compromised hosts and block malicious IPs at the firewall level upon high-severity triggers.
-* [**📂 View Project**](link-to-project) | [**📝 Documentation**](link-to-docs)
+* [**📂 View Project**](https://github.com/monachy92/appsec-detection) | [**📝 Documentation**](link-to-docs)
 
 ### 3️⃣ 🏗️ Secure Supply Chain & OS Hardening
 **Automating Immutable "Golden Images"**
