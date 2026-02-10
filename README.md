@@ -9,7 +9,7 @@
 
 **DCO Tech @ Amazon | Cloud Security Engineering | Purple Team Approach**
 
-[LinkedIn](https://www.linkedin.com/in/jt92/) | [TryHackMe](https://tryhackme.com/p/monarch42)
+[LinkedIn](https://www.linkedin.com/in/jt92/) | [TryHackMe](https://tryhackme.com/p/monarch42) | [Credly](https://www.credly.com/users/jason-tribble)
 
 </div>
 
