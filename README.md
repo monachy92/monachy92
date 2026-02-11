@@ -7,7 +7,7 @@
 ![Security](https://img.shields.io/badge/Security-Purple_Team-blue?style=for-the-badge)
 ![Supply Chain](https://img.shields.io/badge/Security-Supply_Chain-red?style=for-the-badge)
 
-**DCO Tech @ Amazon | Cloud Security Engineering | Purple Team Approach**
+**Cloud Security Engineering | Purple Team Approach**
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I am a Data Center Operations Technician at Amazon transitioning into **Cloud Security Engineering**. I combine hands-on physical infrastructure experience with a **Purple Team methodology**—building labs to simulate real-world attacks and engineering the corresponding defenses.
+I am a Data Center Operations Technician transitioning into **Cloud Security Engineering**. I combine hands-on physical infrastructure experience with a **Purple Team methodology**—building labs to simulate real-world attacks and engineering the corresponding defenses.
 
 **Current Focus:** Kubernetes Hardening (CKS) | Linux OS Hardening (CIS) | Supply Chain Security | Network Security (CCNA)
 
