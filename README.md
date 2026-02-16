@@ -37,11 +37,20 @@ I am a Data Center Operations Technician transitioning into **Cloud Security Eng
 * **Active Response:** Engineered automated scripts to isolate compromised hosts and block malicious IPs at the firewall level upon high-severity triggers.
 * [**📂 View Project**](https://github.com/monachy92/appsec-detection) | [**📝 Documentation**](link-to-docs)
 
-### 3️⃣ 🏗️ Secure Supply Chain & OS Hardening
-**Automating Immutable "Golden Images"**
-* **Image Hardening:** Utilizing **HashiCorp Packer** to build **CIS-compliant** Linux images, removing unnecessary services and tightening kernel parameters.
-* **Vulnerability Management:** Integrating **Trivy** to scan container images and generated **SBOMs** (Software Bill of Materials) for known CVEs.
-* **Manual Hardening:** Developed Bash scripts to automate the application of security baselines to fresh Linux installs.
+### 3️⃣ 🏗️ Secure Supply Chain & Infrastructure Hardening
+**Automating Security-First Infrastructure at Scale**
+
+* Infrastructure-as-Code Security: Implemented automated security scanning with Checkov, Kubescape, and ansible-lint across CloudFormation, Terraform, and Ansible playbooks
+* Secret Protection: Integrated Gitleaks for continuous secret detection across the entire codebase with zero-tolerance enforcement
+* Vulnerability Management: Trivy scanning for HIGH/CRITICAL CVEs in containers and infrastructure dependencies
+* Multi-Cloud Provisioning: Production-ready templates for AWS (CloudFormation/Terraform) and Azure (Bicep) with CIS-hardened defaults
+* Configuration Management: Ansible playbooks with Vault-encrypted secrets for automated system hardening and deployment
+* Policy-as-Code: OPA/Rego policies enforcing security guardrails across all infrastructure deployments
+* CI/CD Security Pipeline: GitHub Actions workflow requiring all security checks to pass before merge
+
+Security Posture: 5 automated security scanners | Zero secrets exposed | 100% policy compliance
+
+📂 View Project | 📝 Security Pipeline
 * [**📂 View Project**](https://github.com/monachy92/secure-supply-chain) | [**📝 Documentation**](link-to-docs)
 
 ### 4️⃣ 🌐 Enterprise Networking & CCNA Lab
