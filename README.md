@@ -9,9 +9,6 @@
 
 **Cloud Security Engineering | Purple Team Approach | Home Lab Practitioner**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
-
 </div>
 
 ---
@@ -75,7 +72,7 @@ My approach combines **offensive security research** with **defensive automation
 * **Hybrid Architecture:** Active Directory to Entra ID integration with Conditional Access policy enforcement and MFA implementation
 * **Why This Matters:** Identity is the new perimeter—proper IAM prevents lateral movement and privilege escalation attacks
 
-[**📂 View Project**](https://github.com/yourusername/identity-security-lab) | [**📖 Architecture Docs**](link-to-docs)
+[**📂 View Project**](https://github.com/CloudSec-Jay/identity-security-lab) | [**📖 Architecture Docs**](link-to-docs)
 
 ---
 
