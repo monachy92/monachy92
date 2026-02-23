@@ -25,6 +25,25 @@ By treating infrastructure as code and security as a continuous engineering disc
 
 ---
 
+## ⚠️ Active Research & Development Notice
+
+> **"A security lab is never finished—it only evolves."**
+
+Every repository in this portfolio is an **Active Research Lab**. These projects are in a constant state of iteration, testing, and refinement. They are not intended as "finished products" but as a transparent record of my ongoing engineering journey into cloud-native security, detection engineering, and automated response.
+
+---
+
+## 🤖 Human-in-the-Loop AI Methodology
+
+I utilize the **Gemini CLI** as a strategic partner in this portfolio. My methodology is strictly **Human-in-the-Loop**, defined by these core principles:
+
+- **No "Vibe-Coding":** I do not use AI to blindly generate or "vibe-code" solutions. Every line of code is reviewed, tested, and validated against real-world security benchmarks (CIS, NIST).
+- **PoC & Strategic Design:** AI is used to scaffold Proof-of-Concept (PoC) architectures and provide strategic technical direction.
+- **AI as a Senior Mentor:** I leverage Gemini as a technical mentor to deepen my understanding of complex topics, challenge my assumptions, and improve my technical writing.
+- **Verification is Absolute:** No AI-suggested pattern is accepted without empirical verification in a controlled lab environment.
+
+---
+
 ## 🚀 Strategic Portfolio: High-Impact Security Solutions
 
 ### 1️⃣ 🕵️‍♂️ Purple Team & AppSec Pipeline
