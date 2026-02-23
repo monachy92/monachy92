@@ -1,29 +1,31 @@
 <div align="center">
-<h1>🛡️ Cloud Security Engineer Portfolio</h1>
+<h1>🛡️ Enterprise Cloud Security & Detection Engineering</h1>
 
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Purple_Team-blue?style=for-the-badge)
-![Supply Chain](https://img.shields.io/badge/Security-Supply_Chain-red?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-CKS_Ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Purple Team](https://img.shields.io/badge/Security-Purple_Team-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-success?style=for-the-badge)
 
-**Cloud Security Engineering | Purple Team Approach | Home Lab Practitioner**
+**Architecting Resilience | Engineering Detection | Automating Response**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🎯 Professional Mission
 
-I'm a Data Center Operations Technician transitioning into **Cloud Security Engineering** with a focus on defense-in-depth architectures. I learn by building—deploying vulnerable applications, exploiting them with real attack techniques, then engineering the defensive controls to detect and prevent those same attacks.
+In an era of $4.5M average breach costs, **security is a business enabler, not a roadblock.**
 
-My approach combines **offensive security research** with **defensive automation**, treating every vulnerability as an opportunity to build stronger security controls.
+I am a Security Engineer focused on building **high-fidelity detection pipelines** and **automated response architectures**. My approach is rooted in the **Purple Team methodology**: I simulate real-world adversary TTPs to validate and harden defensive controls. 
 
-**Current Focus:** Kubernetes Hardening (CKS) | Linux OS Hardening (CIS) | Supply Chain Security | Identity & Access Management
+By treating infrastructure as code and security as a continuous engineering discipline, I deliver measurable reductions in **Mean Time to Detect (MTTD)** and **Mean Time to Respond (MTTR)**, ensuring that security operations scale with business growth.
+
+**Core Philosophy:** "To build an effective shield, one must first master the sword. I break systems to engineer the defenses that stop attackers in production."
 
 ---
 
-## 🔬 Featured Projects (The Big 5)
+## 🚀 Strategic Portfolio: High-Impact Security Solutions
 
 ### 1️⃣ 🕵️‍♂️ Purple Team & AppSec Pipeline
 ![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
