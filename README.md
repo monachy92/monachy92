@@ -5,7 +5,7 @@
 ![Azure](https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKS_Ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Purple Team](https://img.shields.io/badge/Security-Purple_Team-purple?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-success?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-blue?style=for-the-badge)
 
 **Architecting Resilience | Engineering Detection | Automating Response**
 
@@ -48,7 +48,7 @@ I utilize the **Gemini CLI** as a strategic partner in this portfolio. My method
 
 ### 1️⃣ 🕵️‍♂️ Purple Team & AppSec Pipeline
 ![Status](https://img.shields.io/badge/Status-Active_Research-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Wazuh_%7C_Burp_Suite_%7C_Python-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Wazuh_%7C_Burp_Suite_%7C_Python-blue?style=flat-square)
 
 **Focus: Attack Simulation vs. Automated Detection**
 - **Offensive:** Manual OWASP Top 10 exploitation (SQLi, XSS, CSRF) and JWT manipulation using Burp Suite Professional.
@@ -61,7 +61,7 @@ I utilize the **Gemini CLI** as a strategic partner in this portfolio. My method
 
 ### 2️⃣ 🏗️ Secure Supply Chain & Infrastructure Hardening
 ![Status](https://img.shields.io/badge/Status-Active_Research-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Terraform_%7C_Ansible_%7C_Checkov-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Terraform_%7C_Ansible_%7C_Checkov-blue?style=flat-square)
 
 **Focus: Hardened-by-Default Infrastructure as Code**
 - **IaC Security:** Automated scanning (Checkov, Trivy) for Terraform, Bicep, and CloudFormation.
@@ -74,7 +74,7 @@ I utilize the **Gemini CLI** as a strategic partner in this portfolio. My method
 
 ### 3️⃣ 🔐 Identity & Cloud Security Lab
 ![Status](https://img.shields.io/badge/Status-Active_Research-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-PowerShell_%7C_Entra_ID_%7C_Azure-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-PowerShell_%7C_Entra_ID_%7C_Azure-blue?style=flat-square)
 
 **Focus: Hybrid IAM Lifecycle & Access Governance**
 - **IAM Automation:** PowerShell-driven AD/Entra ID provisioning and sync health monitoring.
@@ -87,7 +87,7 @@ I utilize the **Gemini CLI** as a strategic partner in this portfolio. My method
 
 ### 4️⃣ ⚓ Kubernetes Security & Hardening
 ![Status](https://img.shields.io/badge/Status-Active_Research-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-K3s_%7C_Cilium_%7C_RBAC-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-K3s_%7C_Cilium_%7C_RBAC-blue?style=flat-square)
 
 **Focus: Zero-Trust Networking for Cloud-Native Workloads**
 - **eBPF Security:** Utilizing Cilium for identity-aware L7 policies and transparent encryption.
@@ -99,7 +99,7 @@ I utilize the **Gemini CLI** as a strategic partner in this portfolio. My method
 
 ### 5️⃣ 🤖 AI Safety & LLM Security Research
 ![Status](https://img.shields.io/badge/Status-Active_Research-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Python_%7C_OWASP_LLM-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python_%7C_OWASP_LLM-blue?style=flat-square)
 
 **Focus: Hardening Generative AI Implementations**
 - **Prompt Injection Mitigation:** Python-based security gateways for input sanitization.
