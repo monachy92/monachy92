@@ -190,7 +190,6 @@ I'm always interested in discussing cloud security architecture, purple team met
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last_Updated-February_2025-success?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-February_2026-success?style=flat-square)
 
 </div>
