@@ -8,137 +8,71 @@
 ![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-white?style=for-the-badge)
 
 **Architecting Resilience | Engineering Detection | Automating Response**
-
 </div>
 
 ---
 
-## 🎯 Professional Mission
+## 🎯 Professional Overview
 
-In an era of $4.5M average breach costs, **security is a business enabler, not a roadblock.**
+I am a Security Engineer focused on building high-fidelity detection pipelines and automated response architectures. My approach is rooted in the Purple Team methodology: I simulate real-world adversary TTPs to validate and harden defensive controls. 
 
-I am a Security Engineer focused on building **high-fidelity detection pipelines** and **automated response architectures**. My approach is rooted in the **Purple Team methodology**: I simulate real-world adversary TTPs to validate and harden defensive controls. 
-
-By treating infrastructure as code and security as a continuous engineering discipline, I deliver measurable reductions in **Mean Time to Detect (MTTD)** and **Mean Time to Respond (MTTR)**, ensuring that security operations scale with business growth.
-
-**Core Philosophy:** "To build an effective shield, one must first master the sword. I break systems to engineer the defenses that stop attackers in production."
+This portfolio showcases my hands-on experience in treating infrastructure as code and security as a continuous engineering discipline. My goal is to deliver measurable reductions in Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR).
 
 ---
 
-## ⚠️ Active Research & Development Notice
+## 🚀 Projects & Labs
 
-> **"A security lab is never finished—it only evolves."**
+### 🕵️‍♂️ [Purple Team & AppSec Pipeline](https://github.com/CloudSec-Jay/appsec-detection)
+**Focus:** Attack Simulation vs. Automated Detection
+- **What it does:** Automates the "Attack-to-Response" lifecycle using Wazuh and Python-based SOAR workflows.
+- **Key Skills:** Manual OWASP Top 10 exploitation, custom Wazuh XML rule authoring, real-time threat mitigation.
 
-Every repository in this portfolio is an **Active Research Lab**. These projects are in a constant state of iteration, testing, and refinement. They are not intended as "finished products" but as a transparent record of my ongoing engineering journey into cloud-native security, detection engineering, and automated response.
+### 🏗️ [Secure Supply Chain & Infrastructure Hardening](https://github.com/CloudSec-Jay/IaC)
+**Focus:** Hardened-by-Default Infrastructure as Code
+- **What it does:** Implements "Shift-Left" security patterns to detect and block misconfigurations at the point of commit.
+- **Key Skills:** Automated scanning (Checkov, Trivy), Terraform, Bicep, Ansible, secret management via Gitleaks.
 
----
+### 🔐 [Identity & Cloud Security Lab](https://github.com/CloudSec-Jay/identity-security-lab)
+**Focus:** Hybrid IAM Lifecycle & Access Governance
+- **What it does:** Automates the identity lifecycle to ensure consistency and least-privilege governance in hybrid environments.
+- **Key Skills:** PowerShell-driven AD/Entra ID provisioning, RBAC analysis, stale account remediation.
 
-## 🤖 Human-in-the-Loop AI Methodology
+### ⚓ [Kubernetes Security & Hardening](https://github.com/CloudSec-Jay/k8s-security-lab)
+**Focus:** Zero-Trust Networking for Cloud-Native Workloads
+- **What it does:** Implements kernel-level workload protection and transparent encryption using Cilium eBPF.
+- **Key Skills:** Kubernetes (K3s), eBPF, Pod Security Standards, RBAC least-privilege, API server auditing.
 
-I utilize the **Gemini CLI** as a strategic partner in this portfolio. My methodology is strictly **Human-in-the-Loop**, defined by these core principles:
-
-- **No "Vibe-Coding":** I do not use AI to blindly generate or "vibe-code" solutions. Every line of code is reviewed, tested, and validated against real-world security benchmarks (CIS, NIST).
-- **PoC & Strategic Design:** AI is used to scaffold Proof-of-Concept (PoC) architectures and provide strategic technical direction.
-- **AI as a Senior Mentor:** I leverage Gemini as a technical mentor to deepen my understanding of complex topics, challenge my assumptions, and improve my technical writing.
-- **Verification is Absolute:** No AI-suggested pattern is accepted without empirical verification in a controlled lab environment.
-
----
-
-## 📊 Strategic Lab Matrix: Research & Outcomes
-
-| Research Domain | Status | Core Methodology | Strategic Business Outcome |
-| :--- | :--- | :--- | :--- |
-| 🕵️ **AppSec & Detection** | `Research` | Purple Teaming + SOAR | Measurable MTTD/MTTR Reduction |
-| 🏗️ **Infrastructure** | `Research` | Hardened IaC + CIS | Zero-Trust Supply Chain Integrity |
-| 🔐 **Identity (IAM)** | `Research` | Hybrid Sync + RBAC | Automated Least-Privilege Governance |
-| ⚓ **K8s Security** | `Research` | eBPF + Cilium + CIS | Kernel-Level Workload Protection |
-| 🤖 **AI / LLM Safety** | `Research` | Prompt Injection Defense | Hardened GenAI Implementation |
-
----
-
-## 🚀 Active Research Labs
-
-### 🕵️‍♂️ Purple Team & AppSec Pipeline
-> **Strategic Value:** Automates the "Attack-to-Response" lifecycle, returning 100+ SOC analyst hours to the business through high-fidelity engineering.
-
-- **Research Focus:** Manual OWASP Top 10 exploitation vs. custom Wazuh XML rule authoring.
-- **Active Response:** SOAR-style Python automation for real-time threat mitigation.
-- [**📂 View Research Lab**](https://github.com/monachy92/appsec-detection)
-
----
-
-### 🏗️ Secure Supply Chain & Infrastructure Hardening
-> **Strategic Value:** Eliminates 90% of misconfigurations before they reach production, catching $8,000 mistakes for $80 in development.
-
-- **IaC Security:** Automated scanning (Checkov, Trivy) for Terraform, Bicep, and CloudFormation.
-- **Secret Management:** Gitleaks integration with zero-tolerance pre-commit enforcement.
-- [**📂 View Research Lab**](https://github.com/CloudSec-Jay/IaC)
-
----
-
-### 🔐 Identity & Cloud Security Lab
-> **Strategic Value:** Hardens the #1 enterprise attack surface (Identity) by automating the full user lifecycle and RBAC governance.
-
-- **IAM Automation:** PowerShell-driven AD/Entra ID provisioning and sync health monitoring.
-- **Access Auditing:** Custom scripts for RBAC analysis and stale account remediation.
-- [**📂 View Research Lab**](https://github.com/CloudSec-Jay/identity-security-lab)
-
----
-
-### ⚓ Kubernetes Security & Hardening
-> **Strategic Value:** Implements kernel-level workload protection, ensuring that container escapes are detected and blocked at the eBPF layer.
-
-- **eBPF Security:** Utilizing Cilium for identity-aware L7 policies and transparent encryption.
-- **Cluster Hardening:** Pod Security Standards, RBAC least-privilege, and API server auditing.
-- [**📂 View Research Lab**](https://github.com/yourusername/k8s-security-lab)
-
----
-
-### 🤖 AI Safety & LLM Security Research
-> **Strategic Value:** Mitigates the emerging risks of Generative AI, protecting intellectual property from prompt injection and data poisoning.
-
-- **Input Sanitization:** Python-based security gateways for LLM prompt filtering.
-- **Threat Modeling:** Researching architectural weaknesses in private LLM deployments.
-- [**📂 View Research Lab**](https://github.com/yourusername/llm-security-research)
+### 🤖 [AI Safety & LLM Security Research](https://github.com/CloudSec-Jay/llm-security-research)
+**Focus:** Hardening Generative AI Implementations
+- **What it does:** Mitigates emerging risks of Generative AI, protecting intellectual property from prompt injection and data poisoning.
+- **Key Skills:** Python-based security gateways, threat modeling for private LLM deployments.
 
 ---
 
 ## 🛠️ Technical Competencies
 
-### Cloud & Infrastructure
-- **Provisioning:** Terraform, AWS CloudFormation, Azure Bicep
-- **Orchestration:** Kubernetes (K3s), Docker, Docker Compose
-- **Automation:** Ansible, Bash, PowerShell, GitHub Actions
-- **Platforms:** AWS, Microsoft Azure, Proxmox (Bare-Metal)
+- **Cloud & Infrastructure:** Terraform, AWS CloudFormation, Azure Bicep, Kubernetes (K3s), Docker, Ansible, Bash, PowerShell
+- **Security & Monitoring:** Wazuh, Checkov, Trivy, Gitleaks, Ansible-Lint, Burp Suite Professional, SQLMap, Wireshark
+- **AI Tooling:** Gemini CLI (utilized as a technical partner for rapid prototyping, architecture brainstorming, and research acceleration)
 
-### Security & Monitoring
-- **SIEM/EDR:** Wazuh, Elastic Security (Learning)
-- **SAST/IaC Scanning:** Checkov, Trivy, Gitleaks, Ansible-Lint
-- **Offensive Tools:** Burp Suite Professional, SQLMap, Metasploit, Wireshark
-- **Compliance Frameworks:** CIS Benchmarks, NIST 800-53, OWASP Top 10
+---
+
+## 📚 Currently Learning
+
+I'm focused on the intersection of **eBPF networking** and **Kubernetes security**:
+- **Cilium eBPF:** Replacing `kube-proxy` for higher performance and identity-aware security observability.
+- **CKS Preparation:** CNCF Kubernetes Security Specialist domains, focusing on runtime security and container hardening.
 
 ---
 
 ## 🎓 Education & Certifications
 
-### Education
-- **B.S. Cloud Computing** - Western Governors University (Expected May 2026)
-- **M.S. Cybersecurity & Information Assurance** - WGU (Starting Nov 2026)
-
-### Professional Certifications
-- **CompTIA:** Security+, Network+, Linux+, A+
-- **Cloud:** AWS Certified Cloud Practitioner (CCP), Microsoft Azure Fundamentals (AZ-900)
-
-### 🎯 2025-2026 Roadmap
-- Q1 2025: AWS Certified Solutions Architect Associate (SAA-C03)
-- Q2 2025: Cisco CCNA (200-301)
-- Q3 2025: Certified Kubernetes Administrator (CKA)
-- 2026: Certified Kubernetes Security Specialist (CKS)
+- **Education:** B.S. Cloud Computing, Western Governors University (Expected May 2026) | M.S. Cybersecurity & Information Assurance (Starting Nov 2026)
+- **Certifications:** CompTIA (Security+, Network+, Linux+, A+), AWS Certified Cloud Practitioner (CCP), Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
-## 📫 Contact & Engagement
+## 📫 Contact
 
-- **LinkedIn:** [Professional Profile](your-linkedin-url)
-- **Email:** [Direct Contact](mailto:your-email)
-- **GitHub:** [Security Research Hub](your-github-url)
+- **LinkedIn:** [CloudSec-Jay](https://linkedin.com/in/cloudsec-jay)
+- **GitHub:** [CloudSec-Jay](https://github.com/CloudSec-Jay)
