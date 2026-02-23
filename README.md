@@ -1,9 +1,11 @@
 <div align="center">
 <h1>🛡️ Enterprise Cloud Security & Detection Engineering</h1>
 
-![Active Research](https://img.shields.io/badge/Status-Active_Research-blue?style=flat-square)
-![Methodology](https://img.shields.io/badge/Methodology-Human--in--the--Loop_AI-success?style=flat-square)
-![Certifications](https://img.shields.io/badge/Certs-Sec%2B_%7C_Net%2B_%7C_SAA--Ready-orange?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-CKS_Ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Purple Team](https://img.shields.io/badge/Security-Purple_Team-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-success?style=for-the-badge)
 
 **Architecting Resilience | Engineering Detection | Automating Response**
 
