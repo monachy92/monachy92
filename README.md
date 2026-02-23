@@ -4,7 +4,7 @@
 ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKS_Ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Purple Team](https://img.shields.io/badge/Security-Purple_Team-blue?style=for-the-badge)
+![Purple Team](https://img.shields.io/badge/Security-Purple_Team-purple?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-success?style=for-the-badge)
 
 **Architecting Resilience | Engineering Detection | Automating Response**
