@@ -1,78 +1,68 @@
+# 🛡️ Enterprise Cloud Security & Detection Engineering
+
 <div align="center">
-<h1>🛡️ Enterprise Cloud Security & Detection Engineering</h1>
 
-![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-CKS_Ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Purple Team](https://img.shields.io/badge/Security-Purple_Team-mediumpurple?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-SOAR_%7C_IaC-white?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge)
 
-**Architecting Resilience | Engineering Detection | Automating Response**
 </div>
 
 ---
 
-## 🎯 Professional Overview
+> **"I build security automation that reduces risk, cuts response time, and maps to what enterprise teams actually need — and I have lab results to back it up."**
 
-I am a Security Engineer focused on building high-fidelity detection pipelines and automated response architectures. My approach is rooted in the Purple Team methodology: I simulate real-world adversary TTPs to validate and harden defensive controls. 
+## 📂 The Engineering Portfolio
 
-This portfolio showcases my hands-on experience in treating infrastructure as code and security as a continuous engineering discipline. My goal is to deliver measurable reductions in Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR).
+This is the executive hub for my security engineering labs. Every repository below is an active research environment focused on reducing Mean Time to Detect (MTTD) and automating response via code.
 
----
+| Project / Repository | Domain | Outcome / Business Impact | Status |
+| :--- | :--- | :--- | :--- |
+| **[Hardened Infrastructure Arsenal](https://github.com/CloudSec-Jay/IaC)** | **IaC / Supply Chain** | 6-stage CI/CD pipeline blocking misconfigurations before deployment via Checkov, Trivy, and OPA. | 🔴 In Progress |
+| **[AppSec Detection Lab](https://github.com/CloudSec-Jay/appsec-detection)** | **Detection Engineering** | Purple team architecture mapping OWASP exploitation to automated Wazuh SIEM response scripts. | 🟡 Active Dev |
+| **[Identity Security Lab](https://github.com/CloudSec-Jay/identity-security-lab)** | **IAM & Governance** | PowerShell/Entra ID automation for zero-trust lifecycle provisioning and stale account remediation. | 🟡 Active Dev |
+| **[Data Science & Analytics](https://github.com/CloudSec-Jay/datascience-learning)** | **Data Engineering** | Exploratory Data Analysis (EDA) and statistical modeling pipeline for large-scale security log intelligence. | 🟡 Active Dev |
+| **[Network Automation](https://github.com/CloudSec-Jay/packet-tracer-fedora)** | **DevOps / Tooling** | Verified network configurations and automated topology provisioning. | ✅ Shipped |
 
-## 🚀 Projects & Labs
+## 🛠️ Technical Skill Matrix
 
-### 🕵️‍♂️ [Purple Team & AppSec Pipeline](https://github.com/CloudSec-Jay/appsec-detection)
-**Focus:** Attack Simulation vs. Automated Detection
-- **What it does:** Automates the "Attack-to-Response" lifecycle using Wazuh and Python-based SOAR workflows.
-- **Key Skills:** Manual OWASP Top 10 exploitation, custom Wazuh XML rule authoring, real-time threat mitigation.
-
-### 🏗️ [Secure Supply Chain & Infrastructure Hardening](https://github.com/CloudSec-Jay/IaC)
-**Focus:** Hardened-by-Default Infrastructure as Code
-- **What it does:** Implements "Shift-Left" security patterns to detect and block misconfigurations at the point of commit.
-- **Key Skills:** Automated scanning (Checkov, Trivy), Terraform, Bicep, Ansible, secret management via Gitleaks.
-
-### 🔐 [Identity & Cloud Security Lab](https://github.com/CloudSec-Jay/identity-security-lab)
-**Focus:** Hybrid IAM Lifecycle & Access Governance
-- **What it does:** Automates the identity lifecycle to ensure consistency and least-privilege governance in hybrid environments.
-- **Key Skills:** PowerShell-driven AD/Entra ID provisioning, RBAC analysis, stale account remediation.
-
-### ⚓ [Kubernetes Security & Hardening](https://github.com/CloudSec-Jay/k8s-security-lab)
-**Focus:** Zero-Trust Networking for Cloud-Native Workloads
-- **What it does:** Implements kernel-level workload protection and transparent encryption using Cilium eBPF.
-- **Key Skills:** Kubernetes (K3s), eBPF, Pod Security Standards, RBAC least-privilege, API server auditing.
-
-### 🤖 [AI Safety & LLM Security Research](https://github.com/CloudSec-Jay/llm-security-research)
-**Focus:** Hardening Generative AI Implementations
-- **What it does:** Mitigates emerging risks of Generative AI, protecting intellectual property from prompt injection and data poisoning.
-- **Key Skills:** Python-based security gateways, threat modeling for private LLM deployments.
-
----
-
-## 🛠️ Technical Competencies
-
-- **Cloud & Infrastructure:** Terraform, AWS CloudFormation, Azure Bicep, Kubernetes (K3s), Docker, Ansible, Bash, PowerShell
-- **Security & Monitoring:** Wazuh, Checkov, Trivy, Gitleaks, Ansible-Lint, Burp Suite Professional, SQLMap, Wireshark
-- **AI Tooling:** Gemini CLI (utilized as a technical partner for rapid prototyping, architecture brainstorming, and research acceleration)
-
----
-
-## 📚 Currently Learning
-
-I'm focused on the intersection of **eBPF networking** and **Kubernetes security**:
-- **Cilium eBPF:** Replacing `kube-proxy` for higher performance and identity-aware security observability.
-- **CKS Preparation:** CNCF Kubernetes Security Specialist domains, focusing on runtime security and container hardening.
-
----
+| Category | Core Competencies & Tools |
+| :--- | :--- |
+| **Cloud & Architecture** | AWS (IAM, VPC, EC2), Azure (Entra ID, RBAC), Kubernetes (K3s), eBPF (Cilium) |
+| **Infrastructure as Code** | Terraform, Ansible, AWS CloudFormation, Azure Bicep, Packer |
+| **Detection & Response** | Wazuh (XML Rule Authoring), Splunk/Elastic (Learning), Python SOAR scripts |
+| **Offensive Validation** | Burp Suite Professional, SQLMap, MITRE ATT&CK mapping, JWT manipulation |
+| **DevSecOps & CI/CD** | GitHub Actions, Checkov, Trivy, Gitleaks, OPA/Rego, Ansible-Lint |
+| **AI & Automation** | Gemini CLI (Research acceleration, surgical auditing, scaffolding) |
 
 ## 🎓 Education & Certifications
 
-- **Education:** B.S. Cloud Computing, Western Governors University (Expected May 2026) | M.S. Cybersecurity & Information Assurance (Starting Nov 2026)
-- **Certifications:** CompTIA (Security+, Network+, Linux+, A+), AWS Certified Cloud Practitioner (CCP), Microsoft Azure Fundamentals (AZ-900)
+**Academic Foundation**
+*   **M.S. Cybersecurity & Information Assurance** — Western Governors University *(Starting Nov 2026)*
+*   **B.S. Cloud Computing** — Western Governors University *(Expected May 2026)*
+
+**Active Certifications**
+*   ![CompTIA Sec+](https://img.shields.io/badge/CompTIA-Security+-FF0000?style=flat-square)
+*   ![CompTIA Net+](https://img.shields.io/badge/CompTIA-Network+-0055D4?style=flat-square)
+*   ![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux+-F6B000?style=flat-square)
+*   ![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square)
+*   ![Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square)
+
+**Strategic Roadmap**
+*   AWS Solutions Architect Associate (SAA)
+*   Cisco Certified Network Associate (CCNA)
+*   Certified Kubernetes Administrator / Security Specialist (CKA/CKS)
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- **LinkedIn:** [CloudSec-Jay](https://linkedin.com/in/cloudsec-jay)
-- **GitHub:** [CloudSec-Jay](https://github.com/CloudSec-Jay)
+📫 **[LinkedIn: CloudSec-Jay](https://linkedin.com/in/cloudsec-jay)**
+
+![Last Updated](https://img.shields.io/badge/Last_Updated-February_2026-lightgrey?style=flat-square)
+
+</div>
