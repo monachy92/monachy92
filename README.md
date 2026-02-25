@@ -34,10 +34,10 @@ This is the executive hub for my security engineering labs. Every repository bel
 
 | Project / Repository | Domain | Outcome / Business Impact | Status |
 | :--- | :--- | :--- | :--- |
-| **[Hardened Infrastructure Arsenal](https://github.com/CloudSec-Jay/IaC)** | **IaC / DevSecOps** | 6-stage CI/CD "Security Gauntlet" catching 100% of critical misconfigurations before deployment. | 🔴 In Progress |
-| **[AppSec Detection Lab](https://github.com/CloudSec-Jay/appsec-detection)** | **Detection Eng.** | Purple team lab reducing response time from ~60 mins (manual) to <60 seconds (automated). | 🟡 Active Dev |
+| **[Hardened Infrastructure Arsenal](https://github.com/CloudSec-Jay/IaC)** | **IaC / DevSecOps** | 6-stage CI/CD "Security Gauntlet" catching 100% of critical misconfigurations before deployment. | ✅ Active / Verified |
+| **[AppSec Detection Lab](https://github.com/CloudSec-Jay/appsec-detection)** | **Detection Eng.** | Purple team lab reducing response time from ~60 mins (manual) to <60 seconds (automated). | ✅ Active / Verified |
+| **[Security Analytics & Adversarial AI](https://github.com/CloudSec-Jay/security-analytics-lab)** | **Security Analytics** | Advanced statistical modeling and entropy-based anomaly detection for high-fidelity security log intelligence. | 🟡 Active Dev |
 | **[Identity Security Lab](https://github.com/CloudSec-Jay/identity-security-lab)** | **IAM & Auth** | PowerShell/Entra ID automation for zero-trust lifecycle and automated stale account remediation. | 🟡 Active Dev |
-| **[Data Science & Analytics](https://github.com/CloudSec-Jay/datascience-learning)** | **Security Analytics** | EDA and statistical modeling pipeline for high-fidelity security log intelligence and anomaly detection. | 🟡 Active Dev |
 | **[Kubernetes Security Lab](https://github.com/CloudSec-Jay/kube-home-lab)** | **Cloud-Native Def.** | Hardened K3s/Cilium environment focused on eBPF network security and zero-trust microsegmentation. | 🔵 Low Priority |
 
 ## 🧩 Portfolio Architecture
@@ -90,8 +90,6 @@ This is the executive hub for my security engineering labs. Every repository bel
 
 ---
 <div align="center">
-
-📫 **[LinkedIn: CloudSec-Jay](https://linkedin.com/in/cloudsec-jay)**
 
 ![Last Updated](https://img.shields.io/badge/Last_Updated-February_2026-lightgrey?style=flat-square)
 
