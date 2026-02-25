@@ -34,11 +34,11 @@ This is the executive hub for my security engineering labs. Every repository bel
 
 | Project / Repository | Domain | Outcome / Business Impact | Status |
 | :--- | :--- | :--- | :--- |
-| **[Hardened Infrastructure Arsenal](https://github.com/CloudSec-Jay/IaC)** | **IaC / DevSecOps** | 6-stage CI/CD "Security Gauntlet" catching 100% of critical misconfigurations before deployment. | ✅ Active / Verified |
-| **[AppSec Detection Lab](https://github.com/CloudSec-Jay/appsec-detection)** | **Detection Eng.** | Purple team lab reducing response time from ~60 mins (manual) to <60 seconds (automated). | ✅ Active / Verified |
-| **[Security Analytics & Adversarial AI](https://github.com/CloudSec-Jay/security-analytics-lab)** | **Security Analytics** | Advanced statistical modeling and entropy-based anomaly detection for high-fidelity security log intelligence. | 🟡 Active Dev |
-| **[Identity Security Lab](https://github.com/CloudSec-Jay/identity-security-lab)** | **IAM & Auth** | PowerShell/Entra ID automation for zero-trust lifecycle and automated stale account remediation. | 🟡 Active Dev |
-| **[Kubernetes Security Lab](https://github.com/CloudSec-Jay/kube-home-lab)** | **Cloud-Native Def.** | Hardened K3s/Cilium environment focused on eBPF network security and zero-trust microsegmentation. | 🔵 Low Priority |
+| **[Hardened Infrastructure Arsenal](https://github.com/CloudSec-Jay/IaC)** | **IaC / DevSecOps** | 6-stage CI/CD "Security Gauntlet" catching 100% of critical misconfigurations before deployment. | 🟡 In Progress (65%) |
+| **[AppSec Detection Lab](https://github.com/CloudSec-Jay/appsec-detection)** | **Detection Eng.** | Purple team lab reducing response time from ~60 mins (manual) to <60 seconds (automated). | 🟡 In Progress (25%) |
+| **[Security Analytics & Adversarial AI](https://github.com/CloudSec-Jay/security-analytics-lab)** | **Security Analytics** | Advanced statistical modeling and entropy-based anomaly detection for high-fidelity security log intelligence. | 🟡 In Progress (20%) |
+| **[Identity Security Lab](https://github.com/CloudSec-Jay/identity-security-lab)** | **IAM & Auth** | PowerShell/Entra ID automation for zero-trust lifecycle and automated stale account remediation. | 🔴 In Progress (10%) |
+| **[Kubernetes Security Lab](https://github.com/CloudSec-Jay/kube-home-lab)** | **Cloud-Native Def.** | Hardened K3s/Cilium environment focused on eBPF network security and zero-trust microsegmentation. | 🔴 In Progress (5%) |
 
 ## 🧩 Portfolio Architecture
 ```text
