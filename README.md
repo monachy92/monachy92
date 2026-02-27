@@ -49,13 +49,17 @@ Claude via Bedrock
 I build security tooling across AWS and Azure — from OPA policies that block misconfigurations before deployment to Wazuh detection rules that catch threats in production. Background in Data Center Operations means I understand infrastructure from the physical layer up. Everything maps to OWASP, MITRE ATT&CK, NIST CSF, and CIS Controls.
 
 ---
-
 ### 📌 Featured
+
+<!--
 
 <a href="https://github.com/CloudSec-Jay/cloud-security-engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CloudSec-Jay&repo=cloud-security-engineer&theme=github_dark&hide_border=true" />
 </a>
 
+-->
+### [cloud-security-engineer](https://github.com/CloudSec-Jay/cloud-security-engineer)
+Multi-cloud security portfolio — AWS + Azure + Entra ID — with IaC security (7 tools), AppSec (DVWA + Burp Suite), SIEM (Wazuh), and AI-assisted analysis (Claude). All mapped to OWASP, MITRE ATT&CK, NIST CSF, and CIS Controls.
 ---
 
 <details>
