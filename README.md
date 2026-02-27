@@ -6,7 +6,7 @@
 
 **DCO → Cloud Security** | AWS + Azure + Entra ID | OWASP · ATT&CK · NIST · CIS
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jt92)
 
 </div>
 
@@ -58,8 +58,9 @@ I build security tooling across AWS and Azure — from OPA policies that block m
 </a>
 
 -->
+
 ### [cloud-security-engineer](https://github.com/CloudSec-Jay/cloud-security-engineer)
-Multi-cloud security portfolio — AWS + Azure + Entra ID — with IaC security (7 tools), AppSec (DVWA + Burp Suite), SIEM (Wazuh), and AI-assisted analysis (Claude). All mapped to OWASP, MITRE ATT&CK, NIST CSF, and CIS Controls.
+### Multi-cloud security portfolio — AWS + Azure + Entra ID — with IaC security (7 tools), AppSec (DVWA + Burp Suite), SIEM (Wazuh), and AI-assisted analysis (Claude). All mapped to OWASP, MITRE ATT&CK, NIST CSF, and CIS Controls.
 ---
 
 <details>
