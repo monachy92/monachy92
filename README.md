@@ -71,7 +71,7 @@ I build security tooling across AWS and Azure — from OPA policies that block m
 
 **IaC (7 tools)** — Terraform · CloudFormation · Bicep · Packer · Docker · Ansible · OPA/Rego
 
-**Security** — Wazuh · Burp Suite · Checkov · tfsec · Trivy · Semgrep · DVWA
+**Scanning & Linting** — Checkov · tfsec · TFLint · cfn-lint · cfn-nag · ansible-lint · Hadolint · Trivy · Semgrep
 
 **Languages** — Python · PowerShell · Bash · HCL · Rego
 
