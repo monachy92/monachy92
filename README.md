@@ -51,16 +51,18 @@ I build security tooling across AWS and Azure — from OPA policies that block m
 ---
 ### 📌 Featured
 
-<!--
+
 
 <a href="https://github.com/CloudSec-Jay/cloud-security-engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CloudSec-Jay&repo=cloud-security-engineer&theme=github_dark&hide_border=true" />
 </a>
 
--->
+
 
 ### [cloud-security-engineer](https://github.com/CloudSec-Jay/cloud-security-engineer)
-### Multi-cloud security portfolio — AWS + Azure + Entra ID — with IaC security (7 tools), AppSec (DVWA + Burp Suite), SIEM (Wazuh), and AI-assisted analysis (Claude). All mapped to OWASP, MITRE ATT&CK, NIST CSF, and CIS Controls.
+
+Multi-cloud security portfolio — AWS + Azure + Entra ID. IaC security (7 tools: Terraform, CloudFormation, Bicep, Packer, Docker, Ansible, OPA), Wazuh XDR/SIEM (CIS SCA policies, MITRE-tagged detection rules, active response), threat hunting and ML/AI detection notebooks (IsolationForest, Random Forest, NLP phishing detection), and supply chain controls. All controls mapped to OWASP Top 10:2025, MITRE ATT&CK, NIST CSF 2.0, and CIS Controls v8.1.
+
 ---
 
 <details>
@@ -85,11 +87,13 @@ I build security tooling across AWS and Azure — from OPA policies that block m
 
 | Domain | Coverage | Status |
 |--------|----------|--------|
-| IaC Security | Terraform, CFn, Bicep, Packer, Docker, Ansible, OPA | 🔨 Building |
-| Cloud Security | AWS (15+ services) + Azure + Entra ID | 🔨 Building |
-| Application Security | DVWA labs, Burp Suite, SAST/DAST/SCA | 🔨 Building |
-| Detection Engineering | Wazuh SIEM, MITRE-tagged rules, multi-cloud ingestion | 🔨 Building |
-| Framework Mapping | OWASP ↔ ATT&CK ↔ NIST ↔ CIS correlation engine | 🔨 Building |
+| IaC Security | Terraform, CloudFormation, Bicep, Packer, Docker, Ansible, OPA — 6-stage Security Gauntlet CI | 🔨 Building |
+| Detection Engineering | Wazuh XDR — CIS SCA (RHEL 9, Ubuntu 22.04), MITRE-tagged rules, active response | 🔨 Building |
+| Security Analytics | 9 Jupyter notebooks — threat hunting, ML anomaly detection, NLP phishing, C2/DGA detection | 🔨 Building |
+| Identity & Access | AWS IAM modules, Azure Entra ID Conditional Access, PIM JIT | 🔨 Building |
+| Application Security | DVWA purple team lab, Burp Suite methodology, OWASP Top 10 scenarios | 🔨 Building |
+| Cloud Integrations | GuardDuty → Wazuh, CloudTrail, VPC Flow Logs, Entra ID sign-in monitoring | 🔨 Building |
+| Framework Mapping | OWASP ↔ ATT&CK ↔ NIST ↔ CIS machine-readable correlation engine | 🔨 Building |
 
 </details>
 
